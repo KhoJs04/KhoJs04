@@ -6,7 +6,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m working on a smart attendance system that integrates both fingerprint and facial recognition for accurate and secure attendance tracking!
 
-<!---
-KhoJs04/KhoJs04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Skills
+- Languages: C++, Python, JavaScript, PHP
+- Tools: Arduino, Laravel, MySQL, ESP32-CAM, NodeMCU
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoJs04&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhoJs04&show_icons=true&theme=radical)
